@@ -1,0 +1,13 @@
+{
+  "name": "atom-simple-kill-ring",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Emacs style ctrl-k, ctrl-y, and ctrl-w using a separate clipboard.",
+  "keywords": ["emacs", "kill-ring", "kill", "ring", "kill ring"],
+  "repository": "https://github.com/keyanzhang/atom-simple-kill-ring",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

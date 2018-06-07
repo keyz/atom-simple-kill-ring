@@ -1,0 +1,7 @@
+{
+  "atom-text-editor": {
+    "ctrl-k": "atom-simple-kill-ring:kill",
+    "ctrl-y": "atom-simple-kill-ring:yank",
+    "ctrl-w": "atom-simple-kill-ring:cut"
+  }
+}
