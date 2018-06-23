@@ -1,7 +1,7 @@
 {
   "name": "atom-simple-kill-ring",
   "main": "./lib/main",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Emacs style ctrl-k, ctrl-y, and ctrl-w using a separate clipboard.",
   "keywords": [
     "emacs",
